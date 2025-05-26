@@ -123,6 +123,5 @@ The project uses **Facebook Prophet**, a powerful open-source time series foreca
 
 The analysis reveals strong **seasonal patterns**, **pandemic impact**, **service-specific usage volatility**, and **growth trends in light rail usage**. Combined with forecasting, these insights support **data-driven decision-making** for resource allocation, scheduling, and promotional planning in public transport systems.
 
-```
 
 
